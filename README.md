@@ -14,11 +14,9 @@ Soy docente técnico y desarrollador apasionado por los sistemas embebidos y el 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Proyectos
-### ControlX - Sistema de Acceso RFID
-Desarrollo de un sistema de control de acceso mediante cerraduras electromagnéticas y tecnología RFID. El proyecto utiliza un ESP8266 para gestionar la seguridad y envía notificaciones en tiempo real a través de un bot de Telegram.
+* **[ControlX](https://github.com/elisoner23/ControlX)**:
+* Sistema de control de acceso IoT utilizando ESP8266, RFID y notificaciones automáticas vía Telegram.Desarrollo de un sistema de control de acceso mediante cerraduras electromagnéticas y tecnología RFID. El proyecto utiliza un ESP8266 para gestionar la seguridad y envía notificaciones en tiempo real a través de un bot de Telegram.
 
-### VetPet - Gestión Veterinaria
-Aplicación móvil diseñada para la administración integral de clínicas veterinarias. Desarrollada en Android Studio, utiliza Firebase para la autenticación de usuarios y la gestión de expedientes clínicos en tiempo real.
 
 ## Contacto
 * **Correo electrónico:** [egelisoner@gmail.com](egelisoner@gmail.com)
