@@ -1,7 +1,7 @@
 # ¡Hola! Soy Erick García 👋
 
 ## Sobre mí
-Soy docente técnico y desarrollador apasionado por los sistemas embebidos y el Internet de las Cosas (IoT). Me dedico a formar a la próxima generación de programadores en el **Bachillerato Técnico Vocacional en Desarrollo de Software**, integrando la pedagogía con soluciones tecnológicas reales. Mi enfoque principal es crear sistemas que conecten el mundo físico con el digital para resolver problemas de seguridad y automatización.
+Soy docente técnico y desarrollador apasionado por los sistemas embebidos y el Internet de las Cosas (IoT). Me dedico a formar a la próxima generación de programadores en el **Bachillerato Técnico Vocacional en Desarrollo de Software** en **Complejo Educativo Jutta Steiner de Toruño**, integrando la pedagogía con soluciones tecnológicas reales. Mi enfoque principal es crear sistemas que conecten el mundo físico con el digital para resolver problemas de seguridad y automatización.
 
 ## Tecnologías
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
