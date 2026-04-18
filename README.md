@@ -24,14 +24,4 @@ Aplicación móvil para la gestión de clínicas veterinarias desarrollada en An
 
 ---
 
-## 📊 Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
-
----
-
-## 📫 Contacto
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-* **Portafolio:** [tu-sitio-web.com](https://tu-sitio-web.com)
-
 "La tecnología es solo una herramienta. En términos de motivar a los niños y lograr que trabajen juntos, el maestro es el recurso más importante."
