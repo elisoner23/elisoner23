@@ -23,4 +23,4 @@ Aplicación móvil diseñada para la administración integral de clínicas veter
 ## Contacto
 * **Correo electrónico:** [egelisoner@gmail.com](egelisoner@gmail.com)
 
-"La tecnología es solo una herramienta. En términos de motivar a los niños y lograr que trabajen juntos, el maestro es el recurso más importante."
+"La tecnología es solo una herramienta. En términos de motivar a los estudiantes y lograr que trabajen juntos, el maestro es el recurso más importante."
